@@ -1,6 +1,9 @@
 # File Upload Platform
 
 This project is a web application where users can upload and store their files. It also includes a profile page where users can edit their profiles.
+![Ekran Alıntısı](https://github.com/BilalAltundag/FileStorm/assets/50177921/56f77b0d-6a47-4a32-a49f-756df107fd63)
+
+![Ekran Alıntısı3](https://github.com/BilalAltundag/FileStorm/assets/50177921/af4f7331-1ea9-4917-b71c-14242813559a)
 
 ## How It Works
 
